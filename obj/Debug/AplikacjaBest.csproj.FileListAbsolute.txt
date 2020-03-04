@@ -1,0 +1,191 @@
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.exe.config
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.exe
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.pdb
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csprojResolveAssemblyReference.cache
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\MainWindow.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\App.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest_MarkupCompile.cache
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest_MarkupCompile.lref
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\MainWindow.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.g.resources
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.Properties.Resources.resources
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csproj.GenerateResource.Cache
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csproj.CoreCompileInputs.cache
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.exe
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.pdb
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKlienta.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKlienta.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.exe.config
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.exe
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.pdb
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csprojResolveAssemblyReference.cache
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKlienta.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\MainWindow.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\App.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest_MarkupCompile.cache
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest_MarkupCompile.lref
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKlienta.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\MainWindow.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.g.resources
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.Properties.Resources.resources
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csproj.GenerateResource.Cache
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csproj.CoreCompileInputs.cache
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.exe
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.pdb
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKlientami.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKlientami.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKarnetami.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKarnetami.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKarnet.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKarnet.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajAtrakcje.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajAtrakcjami.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajAtrakcje.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajAtrakcjami.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajPracownika.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajPracownikami.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajPracownika.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajPracownikami.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajCertyfikat.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajCertyfikat.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\SprawdzanieKarnetu.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\SprawdzanieKarnetu.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AtrakcjeKlient.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AtrakcjeKlient.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\HistoriaKarnetowKlient.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\HistoriaKarnetowKlient.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\StronaGlowna.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\StronaGlowna.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\Certyfikaty.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\Certyfikaty.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.exe.config
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.exe
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.pdb
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.exe
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.pdb
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csprojResolveAssemblyReference.cache
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AtrakcjeKlient.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\Certyfikaty.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajAtrakcje.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajCertyfikat.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKarnet.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKlienta.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajPracownika.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\HistoriaKarnetowKlient.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\MainWindow.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\SprawdzanieKarnetu.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\StronaGlowna.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajAtrakcjami.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKarnetami.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKlientami.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajPracownikami.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\App.g.cs
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest_MarkupCompile.cache
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest_MarkupCompile.lref
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AtrakcjeKlient.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\Certyfikaty.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajAtrakcje.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajCertyfikat.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKarnet.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKlienta.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajPracownika.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\HistoriaKarnetowKlient.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\MainWindow.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\SprawdzanieKarnetu.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\StronaGlowna.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajAtrakcjami.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKarnetami.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKlientami.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajPracownikami.baml
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.g.resources
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.Properties.Resources.resources
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csproj.GenerateResource.Cache
+C:\Users\Cyniu\Desktop\PROJEKT_THE_BEST\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\App.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.exe.config
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.exe
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.pdb
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csprojResolveAssemblyReference.cache
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AtrakcjeKlient.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\Certyfikaty.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajAtrakcje.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajCertyfikat.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKarnet.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKlienta.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajPracownika.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\HistoriaKarnetowKlient.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\MainWindow.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\SprawdzanieKarnetu.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\StronaGlowna.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajAtrakcjami.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKarnetami.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKlientami.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajPracownikami.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\App.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest_MarkupCompile.cache
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest_MarkupCompile.lref
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\App.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AtrakcjeKlient.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\Certyfikaty.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajAtrakcje.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajCertyfikat.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKarnet.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKlienta.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\DodajPracownika.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\HistoriaKarnetowKlient.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\MainWindow.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\SprawdzanieKarnetu.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\StronaGlowna.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajAtrakcjami.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKarnetami.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKlientami.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajPracownikami.baml
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.g.resources
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.Properties.Resources.resources
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csproj.GenerateResource.Cache
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csproj.CoreCompileInputs.cache
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.exe
+C:\Dokumenty\Studia\Programowanie baz danych\PROJEKT THE BEST\Projekt\PROJEKT_THE_BEST_M\Version 0.1\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.pdb
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.exe.config
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.exe
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\bin\Debug\AplikacjaBest.pdb
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csprojResolveAssemblyReference.cache
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\AtrakcjeKlient.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\Certyfikaty.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\DodajAtrakcje.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\DodajCertyfikat.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKarnet.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKlienta.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\DodajPracownika.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\HistoriaKarnetowKlient.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\MainWindow.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\SprawdzanieKarnetu.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\StronaGlowna.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajAtrakcjami.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKarnetami.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKlientami.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajPracownikami.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\App.g.cs
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest_MarkupCompile.cache
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest_MarkupCompile.lref
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\App.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\AtrakcjeKlient.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\Certyfikaty.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\DodajAtrakcje.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\DodajCertyfikat.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKarnet.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\DodajKlienta.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\DodajPracownika.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\HistoriaKarnetowKlient.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\MainWindow.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\SprawdzanieKarnetu.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\StronaGlowna.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajAtrakcjami.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKarnetami.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajKlientami.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\ZarzadzajPracownikami.baml
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.g.resources
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.Properties.Resources.resources
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csproj.GenerateResource.Cache
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.csproj.CoreCompileInputs.cache
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.exe
+C:\Dokumenty\Studia\Programowanie baz danych\Projekt_Pryzwan_Pawlik_Gąsior\AplikacjaBest\AplikacjaBest\obj\Debug\AplikacjaBest.pdb

@@ -1,0 +1,74 @@
+﻿<Window x:Class="AplikacjaBest.StronaGlowna"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AplikacjaBest"
+        mc:Ignorable="d"
+        Title="Strona Główna" Height="300" Width="330" MinHeight="300" MinWidth="330"  MaxHeight="300" MaxWidth="330">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="58" />
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Image Grid.Column="1"   Grid.Row="0"  HorizontalAlignment="Center" Source="./Resources/img1.jpg" Height="100" VerticalAlignment="Center" Width="150" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.164"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.429"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <StackPanel  Grid.Row="1" Grid.Column="1">
+            <Button Name="btnZarzadzanieKlientami"  IsEnabled="False" FontSize ="12" HorizontalAlignment="Center" Width="200" Height="30" Margin="0,1,0,1" Click="ZarzadzajKlientami">
+                <TextBlock  TextAlignment="Center">Zarządzaj Klientami</TextBlock>
+            </Button>
+            <Button FontSize ="12" Name="btnZarzadzanieKarnetami"  IsEnabled="False" HorizontalAlignment="Center" Width="200" Height="30" Margin="0,1,0,1" Click="ZarzadzajKarnetami">
+                <TextBlock  TextAlignment="Center">Zarządzaj Karnetami</TextBlock>
+            </Button>
+            <Button Name="btnZarzadzanieAtrakcjami" IsEnabled="False" FontSize ="12" HorizontalAlignment="Center" Width="200"  Height="30" Margin="0,1,0,1" Click="ZarzadzajAtrakcjami">
+                <TextBlock  TextAlignment="Center">Zarządzaj Atrakcjami</TextBlock>
+            </Button>
+            <Button  Name="btnZarzadzaniePracownikami" IsEnabled="False" FontSize ="12"  HorizontalAlignment="Center" Width="200" Height="30" Margin="0,1,0,1" Click="ZarzadzajPracownikami">
+                <TextBlock  TextAlignment="Center">Zarządzaj Pracownikami</TextBlock>
+            </Button>
+       
+        <Button  Name="btnRozwin"   HorizontalAlignment="Center"  HorizontalContentAlignment="Stretch" Margin="0,10,0,0" Click="btnRozwin_Click" >
+                <Image Name="button" Source="/Resources/img2.png" Height="15" Width="40" />
+            </Button>
+            
+        
+        </StackPanel>
+        <Button  Name="btnwyloguj" Grid.Column="2" Grid.Row="0" HorizontalAlignment="Right"   HorizontalContentAlignment="Stretch" VerticalAlignment="Top"  Click="btnwyloguj_Click" >
+            <Image Name="wyloguj" Source="/Resources/img4.png" Height="20" Width="20" />
+        </Button>
+
+        <StackPanel Grid.Row="2" Grid.Column="1" Name="Kontrolki" IsEnabled="False" Visibility="Hidden">
+
+            <Button FontSize ="10"  HorizontalAlignment="Center"  Margin="0,5,0,1" Width="200" Height="30" Click="Button_Click">
+                <TextBlock  TextAlignment="Center">Sprawdź czy klient ma aktywny karnet</TextBlock>
+            </Button>
+            <Button  FontSize ="10"  HorizontalAlignment="Center"  Margin="0,5,0,1" Width="200" Height="30" Click="Button_Click_1">
+                <TextBlock  TextAlignment="Center">Sprawdź czy klient może używać atrakcji</TextBlock>
+            </Button>
+            <Button FontSize ="10" HorizontalAlignment="Center"  Margin="0,5,0,1" Width="200" Height="30" Click="Historie">
+                <TextBlock  TextAlignment="Center">Wyświelt Historie Karnetów Klienta</TextBlock>
+            </Button>
+            <Button FontSize ="10"  HorizontalAlignment="Center"  Margin="0,5,0,1" Width="200" Height="30" Click="Certyfikaty">
+                <TextBlock  TextAlignment="Center">Wyświelt Certyfikaty Trenera</TextBlock>
+            </Button>
+        </StackPanel>
+    </Grid>
+
+</Window>
+    
+    

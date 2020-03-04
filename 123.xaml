@@ -1,0 +1,36 @@
+﻿<Window x:Class="AplikacjaBest.PrzypiszKarnet"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AplikacjaBest"
+        mc:Ignorable="d"
+        Title="PrzypiszKarnet" Height="600" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*" />
+            <ColumnDefinition Width="1.5*" />
+        </Grid.ColumnDefinitions>
+
+        <ListView x:Name="lstKarnety" Grid.Column="0" Grid.RowSpan="2" Margin="3">
+            <ListView.View>
+                <GridView  AllowsColumnReorder="True" >
+                    <GridViewColumn Header="Nr" DisplayMemberBinding="{Binding ID_Karnetu}" />
+                    <GridViewColumn Header="Nazwa" DisplayMemberBinding="{Binding Nazwa}" />
+                    <GridViewColumn Header="Cena" DisplayMemberBinding="{Binding Cena}" />
+                    <GridViewColumn Header="Uprawnienia" DisplayMemberBinding="{Binding Uprawnienia}" />
+                    <GridViewColumn Header="Czas" DisplayMemberBinding="{Binding Ilosc_Miesiecy}" />
+                    <GridViewColumn Header="Opis" DisplayMemberBinding="{Binding Opis}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <WrapPanel  Grid.Column="1" Grid.RowSpan="2" HorizontalAlignment="Center">
+            <Button Name="btnOK" Content="Przypisz Karnet" Width="Auto" Margin="3" Click="btnOK_Click" />
+            <Button Name="btnAnuluj" Content="Anuluj" Width="70" Margin="3" Click="btnAnuluj_Click"/>
+        </WrapPanel>
+    </Grid>
+</Window>

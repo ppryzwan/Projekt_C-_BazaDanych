@@ -1,0 +1,35 @@
+﻿<Window x:Class="AplikacjaBest.AtrakcjeKlient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AplikacjaBest"
+        mc:Ignorable="d"
+        Title="Wyszukiwarka Dostępnych Atrakcji dla Klienta" Height="300" MinHeight="200" Width="250" MaxWidth="300" MaxHeight="700">
+    <Grid HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+           
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="AUTO" />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel  Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center">
+            <Label Name="lblNazwa"  Content="Wpisz numer klienta" HorizontalAlignment="Right"  />
+            <TextBox Name ="txtWyszukaj"  Margin="2" PreviewTextInput="NumberValidationTextBox" />
+            <Button Name="btnZatwierdz" Content="Zatwierdz wybor" Click="btnZatwierdz_Click" />
+        </StackPanel>
+        <ListView x:Name="lstAtrakcje" Grid.Column="0" Grid.Row="1" Margin="3" >
+            <ListView.View>
+                <GridView  AllowsColumnReorder="True"  >
+                    <GridViewColumn Header="Nazwa" DisplayMemberBinding="{Binding Nazwa}" />
+                    <GridViewColumn Header="Uprawnienia" DisplayMemberBinding="{Binding Uprawnienia}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+
+</Window>
